@@ -6,6 +6,12 @@
 
 الصفحة دي فيها ملفات التثبيت بس. آخر نسخة دايمًا موجودة في **[Releases](https://github.com/TarekMohammedgg/El-Sentr-releases/releases/latest)**.
 
+## آخر إصدار: 0.4.4
+
+- [تحميل مثبّت السنتر 0.4.4](https://github.com/TarekMohammedgg/El-Sentr-releases/releases/download/v0.4.4/El-Sentr-Setup-0.4.4.exe)
+- [تفاصيل الإصدار](https://github.com/TarekMohammedgg/El-Sentr-releases/releases/tag/v0.4.4)
+- الإصدار ده بيحسّن تسجيل حضور الطالب المتأخر، وبيخلي تصحيح الحضور للمدير بس.
+
 ## مواصفات الكمبيوتر المطلوبة
 
 | البند | المطلوب |
